@@ -1,0 +1,33 @@
+{
+  "name": "image-alignment-via-decals",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [
+    "decal",
+    "soft shadows"
+  ],
+  "main": "src/index.js",
+  "dependencies": {
+    "@react-three/drei": "latest",
+    "@react-three/fiber": "latest",
+    "@types/three": "latest",
+    "leva": "0.9.34",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-scripts": "latest",
+    "three": "latest"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
